@@ -1,4 +1,2 @@
-added
-1
-a
-s
+v1
+Added to ini2
